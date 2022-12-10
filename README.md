@@ -1,4 +1,5 @@
 ### Hi there Abbas here 👋
+I’m a 2rd year undergraduate pursuing Bachelors of Technology in Computer Science and Engineering
 
 
 <div id="header" align="center">
