@@ -7,7 +7,7 @@ I’m a 2nd year undergraduate pursuing Bachelors of Technology in Computer Scie
 </div>
 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently developing on 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;  
