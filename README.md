@@ -2,11 +2,6 @@
 I’m a 2nd year undergraduate pursuing Bachelors of Technology in Computer Science and Engineering.
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
-
 - 🔭 I’m currently sourcing on 
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
