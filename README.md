@@ -1,5 +1,5 @@
 ### Hi there Abbas here 👋
-I’m a 2nd year undergraduate pursuing Bachelors of Technology in Computer Science and Engineering.
+
 
 
 - 🔭 I’m currently sourcing on 
